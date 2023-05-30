@@ -1,0 +1,15 @@
+D:\Studies\C# Seminar\Seminar9 dz\task64\bin\Debug\net6.0\task64.exe
+D:\Studies\C# Seminar\Seminar9 dz\task64\bin\Debug\net6.0\task64.deps.json
+D:\Studies\C# Seminar\Seminar9 dz\task64\bin\Debug\net6.0\task64.runtimeconfig.json
+D:\Studies\C# Seminar\Seminar9 dz\task64\bin\Debug\net6.0\task64.dll
+D:\Studies\C# Seminar\Seminar9 dz\task64\bin\Debug\net6.0\task64.pdb
+D:\Studies\C# Seminar\Seminar9 dz\task64\obj\Debug\net6.0\task64.csproj.AssemblyReference.cache
+D:\Studies\C# Seminar\Seminar9 dz\task64\obj\Debug\net6.0\task64.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studies\C# Seminar\Seminar9 dz\task64\obj\Debug\net6.0\task64.AssemblyInfoInputs.cache
+D:\Studies\C# Seminar\Seminar9 dz\task64\obj\Debug\net6.0\task64.AssemblyInfo.cs
+D:\Studies\C# Seminar\Seminar9 dz\task64\obj\Debug\net6.0\task64.csproj.CoreCompileInputs.cache
+D:\Studies\C# Seminar\Seminar9 dz\task64\obj\Debug\net6.0\task64.dll
+D:\Studies\C# Seminar\Seminar9 dz\task64\obj\Debug\net6.0\refint\task64.dll
+D:\Studies\C# Seminar\Seminar9 dz\task64\obj\Debug\net6.0\task64.pdb
+D:\Studies\C# Seminar\Seminar9 dz\task64\obj\Debug\net6.0\task64.genruntimeconfig.cache
+D:\Studies\C# Seminar\Seminar9 dz\task64\obj\Debug\net6.0\ref\task64.dll
